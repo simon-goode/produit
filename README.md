@@ -1,2 +1,2 @@
 # produit
-Technical solutions for the new age
+Free, open source productivity management app
